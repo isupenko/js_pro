@@ -5,6 +5,16 @@
     "price": 45600
   },
   {
+    "id_product": 256,
+    "product_name": "Мышка",
+    "price": 1000
+  },
+  {
+    "id_product": 356,
+    "product_name": "Мышка",
+    "price": 1000
+  },
+  {
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
