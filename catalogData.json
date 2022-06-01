@@ -1,22 +1,22 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
+    "id": 123,
+    "product": "Ноутбук",
     "price": 45600
   },
   {
-    "id_product": 256,
-    "product_name": "Мышка",
+    "idt": 256,
+    "product": "Мышка",
     "price": 1000
   },
   {
-    "id_product": 356,
-    "product_name": "Клава",
+    "id": 356,
+    "product": "Клава",
     "price": 2000
   },
   {
-    "id_product": 456,
-    "product_name": "Флэха",
+    "id": 456,
+    "product": "Флэха",
     "price": 700
   }
 ]
